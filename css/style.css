@@ -118,6 +118,7 @@ p {
     flex-direction: column;
     gap: .2rem;
     font-family: var(--font);
+    width: 60%;
 }
 
 input {
